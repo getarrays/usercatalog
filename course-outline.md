@@ -57,6 +57,11 @@ Course Outline
     2. When to use Angular resolver
     3. Pre-fetching data before routing
 
+### Angular pipes
+    1. What are Angular pipes?
+    2. When to use Angular pipes
+    3. Angular pipes in action
+
 ### RxJs
     1. What is RxJs
     2. Using RxJx to transform API data
